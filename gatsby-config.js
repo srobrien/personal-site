@@ -25,6 +25,7 @@ module.exports = {
         icon: 'src/images/favicon.png',
       },
     },
-    'gatsby-plugin-offline',
+		'gatsby-plugin-offline',
+		'gatsby-plugin-styled-components'
   ],
 }
